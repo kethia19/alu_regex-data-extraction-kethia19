@@ -1,0 +1,4 @@
+Contact us at support@example.com or call (123) 456-7890.
+Visit https://www.example.com or our blog at https://subdomain.example.org/page.
+You can pay with 1234 5678 9012 3456 or 1234-5678-9012-3456.
+Reach Jane at kethia@company.gov.rw or 123.456.7890.
